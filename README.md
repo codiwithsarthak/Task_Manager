@@ -97,7 +97,7 @@ To launch the Task Manager CLI from your desktop environment’s application men
 The project directory contains the following:
 
 ```
-task_manager_cli/
+Task_Manager/
 │
 ├── task_manager.py       # Main script for Task Manager CLI
 ├── tasks.json            # Data file to store tasks (auto-generated after first run)
